@@ -10,6 +10,7 @@ class Emgdev < Formula
   depends_on "curl"
   depends_on "findutils"
   depends_on "gh"
+  depends_on "gimme-aws-creds"
   depends_on "git"
   depends_on "git-gui"
   depends_on "gnu-sed"
